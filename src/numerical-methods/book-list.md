@@ -1,0 +1,3 @@
+| Title                                             | Author        | Language | Publication Date | Description                                   |
+|---------------------------------------------------|----------------|----------|------------------|-----------------------------------------------|
+| [NUMERICAL METHODS IN ENGINEERING WITH PYTHON 3](/src/numerical-methods/books/Numerical%20Methods%20in%20Engineering%20with%20Python.pdf) | Jaan Kiusalaas | English  | 2013 | Comprehensive guide on numerical methods using Python. |
